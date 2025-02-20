@@ -1,0 +1,19 @@
+{
+  "name": "webcrowlerhttp",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node main.js"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^26.0.0"
+  }
+}
